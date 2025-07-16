@@ -1,0 +1,1 @@
+file coding tugasnya nya ada di app/index.tsx
